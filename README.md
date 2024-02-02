@@ -24,10 +24,6 @@ Product.java: Classe que representa um produto, contendo informações como nome
 # Como Executar
 Para executar o programa, basta rodar o arquivo Program.java. Certifique-se de ter um ambiente Java configurado corretamente em sua máquina.
 
-bash
-Copy code
-javac Program.java
-java Program
 
 # Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para reportar problemas, sugerir melhorias ou enviar pull requests para este projeto.
